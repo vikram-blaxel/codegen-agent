@@ -25,7 +25,7 @@ async def main():
                 "transport": "http",
                 "url": f"{sandbox.metadata.url}/mcp",
                 "headers": {
-                    "Authorization": "Bearer bl_aaab7x5mvvr2rydqqhh1w4w0yr47ljkb"
+                    "Authorization": "Bearer XXX"
                 }
             }
         }
