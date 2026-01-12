@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.2",
+    "@blaxel/core": "^0.2.59",
+    "@modelcontextprotocol/sdk": "^1.25.2"
+  }
+}

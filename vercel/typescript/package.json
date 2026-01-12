@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.9",
+    "@ai-sdk/mcp": "^1.0.5",
+    "@ai-sdk/openai": "^3.0.8",
+    "@blaxel/core": "^0.2.59",
+    "ai": "^6.0.25"
+  }
+}
