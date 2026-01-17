@@ -25,7 +25,6 @@ logging.getLogger("google_genai.types").setLevel(logging.WARNING)
 # Capture warnings and route them through logging system
 logging.captureWarnings(True)
 
-
 async def main(task: str):
     # Get API key from environment
     api_key = os.getenv("BLAXEL_API_KEY")
