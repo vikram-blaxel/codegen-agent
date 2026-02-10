@@ -15,7 +15,7 @@
 - Anthropic Platform SDK with external MCP client from `@modelcontextprotocol/sdk`: [TypeScript](./anthropic/typescript/platform-sdk-external-client/agent.ts)
 - Anthropic Platform SDK with built-in MCP client (beta): [TypeScript](./anthropic/typescript/platform-sdk-external-client/agent.ts)
 - Anthropic Agent SDK with built-in MCP client and fixed prompt: [TypeScript](./anthropic/typescript/agent-sdk/simple-agent.ts)
-- Anthropic Agent SDK with built-in MCP client and dynamic prompt: [TypeScript](./anthropic/typescript/agent-sdk/agent.ts)
+- Anthropic Agent SDK with built-in MCP client and dynamic prompt: [TypeScript](./anthropic/typescript/agent-sdk/agent.ts), [Python](./anthropic/python/agent-sdk/agent.py)
 
 ## How to use
 
